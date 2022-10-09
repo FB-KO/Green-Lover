@@ -33,3 +33,8 @@ git clone https://github.com/FB-KO/Green-Lover
 cd Green-Lover
 
 python Green-Lover.py
+
+
+💖 This tools is paid.. You need parmation to use this tools...💖
+
+💖 enjoy uodated ok id tools 💖
