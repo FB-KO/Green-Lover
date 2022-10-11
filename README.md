@@ -32,8 +32,9 @@ git clone https://github.com/FB-KO/Green-Lover
 
 cd Green-Lover
 
-python Green-Lover.py
+python green-lover.py
 
+V 0.2
 
 💖 This tools is paid.. You need parmation to use this tools...💖
 
